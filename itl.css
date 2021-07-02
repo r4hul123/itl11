@@ -1,0 +1,419 @@
+body
+{
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 5vh;
+}
+text
+{
+    font-weight: bold;
+}
+.main-1
+{
+    
+    border: 4px solid black;
+    width: 90vw;
+    padding: 0px;
+}
+
+.head1
+{
+    border-bottom: 4px solid black;
+    height: 11.9vw;
+    display: grid;
+    grid-template-columns: 0.9fr 0.9fr 0.8fr 0.6fr ; 
+    margin-bottom: 0px;
+}
+
+.in-div-1
+{
+    font-size: 2vw;
+    margin-top: 0px;
+    
+}
+.item
+{
+    
+    border-right: 4px solid black;
+    margin: 0vw;
+    height: 12vw;
+  
+}
+.item-1
+{
+    border-right: 0px;
+}
+.in-div{
+    margin-top: 0px;
+    margin-bottom: 0vw;
+    font-size: 1.3vw;
+}
+.in-1
+{
+    padding-bottom: 3.5vw;
+    border-bottom: 4px solid black;
+}
+.div-2
+{
+    text-decoration: underline;
+    text-align: center;
+    height: 33%;
+    position: relative;
+    top: 1vw;
+}
+
+.in-2
+{
+    display: grid;
+    grid-template-columns: repeat (2,auto);
+    height: 69%;
+}
+.in-div-2
+{
+    font-size: 1.2vw;
+    margin-top: 0px;
+    margin-bottom: 0vw;
+    border-bottom: 4px solid black;
+}
+
+.in-div-3{
+    margin-top: 0px;
+    margin-bottom: 0vw;
+    font-size: 2vw;
+}
+.in-div-4{
+    margin-top: 0px;
+    margin-bottom: 0vw;
+    font-size: 1.2vw;
+}
+.diiiv
+{
+    border-top: 4px solid black;
+}
+.in-div2-2-l
+{
+    border: none;
+}
+.head2
+{
+    border-bottom: 4px solid black;
+    height: 4vw;
+    display: grid;
+    grid-template-columns:  1fr 0.8fr 0.415fr
+    
+}
+
+.d-1
+{
+    display: grid;
+    grid-template-columns: repeat (1,auto);
+}
+
+.items,.items-i1
+{
+
+    margin: 0px;
+    font-size: 1.1vw;
+    
+}
+
+.d-4
+{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+}
+
+.items-i1
+{
+    width: 100%;
+    border-right: 4px solid black;
+    
+}
+
+.head2-div
+{
+    border-right: 4px solid black;
+    height: 4.1vw;
+}
+
+.od
+{
+    border-bottom: 4px solid black;
+    width: 100.1%;
+    
+}
+
+.head2-div-l
+{
+    border-right: none;
+}
+
+.d-2
+{
+    display: grid;
+    grid-template-columns: repeat (1,auto );
+    grid-template-rows: 1fr 0.4fr;
+}
+
+.ii
+{
+    border-bottom: 4px solid black;
+    font-size: 1vw;
+}
+
+.ii-l
+{
+    border-bottom: none;
+}
+
+.ii-11
+{
+    height: 2vw;
+}
+.head2-div-1
+{
+    border-right: 4px solid black;
+    height: 99%;
+}
+.head2-div-2
+{
+    
+    height: 99%;
+}
+.items-i1-1
+{
+    margin: 0px;
+    font-size: 1.1vw;
+    
+    
+    
+}
+.ii-1
+{
+
+    border-bottom: 4px solid black;
+    font-size: 1vw;
+}
+.ii-111
+{
+    height: 50%;
+}
+
+.ii-1-l
+{
+
+    border-bottom: none;
+}
+.table
+{
+    width: 100%;
+    
+    box-sizing: border-box;
+    border-bottom: 3px solid black;
+    border-width: 4px;
+    margin: 0px;
+    border-collapse: collapse;
+    border-style: hidden;
+    padding: 0px;
+            
+    
+}
+.th
+{
+    font-weight: bolder;
+    
+}
+.t2
+{
+    display: inline-block;
+}
+
+
+
+
+
+
+.hh
+{
+    text-align: center;
+    width: 100%;
+    
+
+}
+
+.he1
+{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 0.4fr 1fr;
+    
+}
+
+
+.t-head-11
+{
+    border-bottom: 200px solid black;
+}
+
+.in2{
+    width: 100%;
+}
+
+.head3
+{
+    
+    
+    display: grid;
+    grid-template-columns: 0.385fr 0.88fr 9.5fr 0.94fr 1fr 1fr;
+    grid-gap: 0.3vw;
+}
+.he2
+{
+    display: grid;
+    text-align: center;
+   
+    
+}
+.i11
+{
+    display: grid;
+    grid-template-columns: repeat (1,auto );
+    border:none;
+    
+   
+    
+}
+.in,.in1,.in2,.in3,.in4,.in5,.in6,.in7,.in8,.in9,.in10,.in11,.in12
+{
+    font-size: 1vw;
+    height: 1vw;
+    width: 100%;   
+}
+.in2
+{
+    width: 20vw;
+}
+.in
+{
+    width: 2.67vw;
+}
+
+
+
+
+input
+{
+    border-radius: 0px;
+}
+
+
+input
+{
+    outline:none;
+}
+
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-style: hidden;
+    /*Remove all the outside
+    borders of the existing table*/
+}
+
+table td {
+    padding: 0vw 0.5rem ;
+    border: 5px solid black;
+    padding-left: none;
+}
+table th {
+    
+    border: 5px solid black;
+    padding-left: none;
+}
+
+input
+{
+    border:none;
+    outline: none;
+}
+.hhh
+{
+ text-align: center;
+}
+.hh
+{
+    font-size: 2vw;
+    width: 24vw;
+    border-bottom: 4px solid black;    
+}
+.hh1111
+{
+    width: 5vw;
+}
+
+.header
+{
+   height: 4px;
+   background-color:black;
+   border: none;
+   margin:0px;
+  
+}
+
+
+.in5
+{
+    width: 5vw;
+}
+.in9
+{
+    width: 4.8vw;
+}
+.in10
+{
+    width: 3.96vw;
+
+}
+.in11
+{
+    width: 4.6vw;
+
+}
+.in12
+{
+    width: 3.88vw;
+
+}
+
+.dd22
+{
+    
+    margin: 0px;
+    font-size: 1.3vw;
+    
+}
+.bb1
+{
+    display: grid;
+    grid-template-columns:repeat(1,auto);
+    grid-template-rows: 0.3fr 3fr;
+    
+}
+.bb-2
+{
+    margin-left: 0.4vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
